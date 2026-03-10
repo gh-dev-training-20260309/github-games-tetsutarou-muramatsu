@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/gh-dev-training-20260309/github-games-tetsutarou-muramatsu
+You can play the game at: https://github.com/gh-dev-training-20260309/github-games-tetsutarou-muramatsu-----
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
